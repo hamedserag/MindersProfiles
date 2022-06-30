@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.profilePic {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.pname {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 3rem;
+    border-bottom: 1px solid #1a1a1a;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.postName {
+    font-size: 1rem;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.postPic {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+
+.pdate {
+    color: #777777;
+}
+
+.post {
+    border-bottom: 4px solid #fdd401;
+}
